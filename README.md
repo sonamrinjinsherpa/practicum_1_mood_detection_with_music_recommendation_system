@@ -1,4 +1,4 @@
-# Mood-Aware Music Recommendation System
+# Mood Detection with Music Recommendation System
 
 ## Project Overview
 
