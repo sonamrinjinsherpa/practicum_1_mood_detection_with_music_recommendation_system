@@ -86,6 +86,13 @@ The project was implemented using the following tools and libraries:
 - Git and GitHub
 
 ---
+## How to Run
+
+1. Clone the repository.
+2. Install the required Python libraries (pandas, numpy, scikit-learn, matplotlib, seaborn, plotly).
+3. Launch Jupyter Notebook.
+4. Open and run the notebooks in the `notebooks/` folder in order.
+
 
 ## Results
 
