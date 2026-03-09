@@ -68,6 +68,8 @@ reports/
 figures/        → visualizations used in the report
 practicum_report.pdf
 
+## System Architecture 
+![Architecture](reports/figures/final_architecture.jpg)
 
 ## Tools and Libraries
 
@@ -107,4 +109,4 @@ Sonam Rinjin Sherpa
 Master of Science in Data Science  
 Regis University
 
-## System Architecture 
+
