@@ -91,7 +91,11 @@ The project was implemented using the following tools and libraries:
 1. Clone the repository.
 2. Install the required Python libraries (pandas, numpy, scikit-learn, matplotlib, seaborn, plotly).
 3. Launch Jupyter Notebook.
-4. Open and run the notebooks in the `notebooks/` folder in order.
+4. Open and run the notebooks in the `notebooks/` folder in order, i.e
+   - data_prep_and_eda.ipynb
+   - mood_inference.ipynb
+   - recommendation_system.ipynb
+   - evaluation.ipynb
 
 
 ## Results
